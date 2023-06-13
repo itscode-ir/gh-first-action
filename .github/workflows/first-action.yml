@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print shahab faghat shahab dj
-        run: ehco "shahab faghat shahab dj"
+        run: echo "shahab faghat shahab dj"
       - name: Print by by shahabdj
-        run: ehco "by by shahabdj"
+        run: echo "by by shahabdj"
